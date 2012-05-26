@@ -35,7 +35,7 @@ h2. Gist
 * "Printable GitHub issues":http://gist.github.com/1357711 - A print stylesheet for GitHub issues.
 
 h2. Userscripts and Bookmarklets Needing an Owner and Updating
-These userscripts and bookmarklets are no longer maintained. They do not work or do not work reliably. They need updating and, even better, a new maintainer.
+p. These userscripts and bookmarklets are no longer maintained. They do not work or do not work reliably. They need updating and, even better, a new maintainer.
 * "Augment GitHub":http://github.com/nakajima/augment-github - Bookmarklet that adds follower, fork, and issue counts to your repos on your dashboard
 
 
